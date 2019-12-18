@@ -1,6 +1,6 @@
 FROM ubuntu AS compiler
 
-MAINTAINER ZhiFeng Hu "hufeng1987@gmail.com"
+MAINTAINER Fendy GP  "fendy@gmail.com"
 
 RUN apt-get update
 RUN apt-get install -y curl
